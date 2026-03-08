@@ -1,0 +1,38 @@
+body{
+    background-color:black;
+    color: grey;
+
+}
+.naledi-picture img{
+    width: 200px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bio{
+    text-align: left;
+    color: aliceblue;
+    background-color: blue;
+}
+
+.Menu{
+    display: block;
+    text-align: right;
+    text-decoration: none;
+    margin-right: auto;
+    color: blue;
+}
+h2{
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;
+   
+}
+p{
+    text-align: center;
+    color: aliceblue;
+   
+}
